@@ -1,0 +1,19 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "My discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "github:izy521/discord.io",
+    "discord.js": "^11.3.2",
+    "download-file": "^0.1.5",
+    "keyword-extractor": "0.0.15",
+    "request": "^2.87.0",
+    "winston": "^2.4.2"
+  }
+}
